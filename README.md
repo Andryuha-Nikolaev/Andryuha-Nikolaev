@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hello+World)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hello+World!)](https://git.io/typing-svg)
 
 ## Обо мне:
-+ Студент [Яндекс.Практикум](https://practicum.yandex.ru/) на курсе Веб-разработчик
++ Окончил курс [Веб-разработчик](https://practicum.yandex.ru/web/) в Яндекс.Практикум
 + Стараюсь писать чистый и понятный код
 + Осваиваю новые технологии
 + Хочу создавать качественный продукт
@@ -16,6 +16,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+
+![Node.js](https://user-images.githubusercontent.com/86494748/158791550-15622b7d-b568-4c49-8bdd-b6732cb2869b.png)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
