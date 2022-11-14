@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hello+World!)](https://git.io/typing-svg)
 
+## Меня зовут Андрей
+
 ## Обо мне:
 + Окончил курс [Веб-разработчик](https://practicum.yandex.ru/web/) в Яндекс.Практикум
 + Стараюсь писать чистый и понятный код
