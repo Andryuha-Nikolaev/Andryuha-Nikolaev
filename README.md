@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hello+World%2C++I%E2%80%99m+Andrey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=000000&lines=Hello+World)](https://git.io/typing-svg)
 
 ## Обо мне:
 + Студент [Яндекс.Практикум](https://practicum.yandex.ru/) на курсе Веб-разработчик
