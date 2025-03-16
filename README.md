@@ -6,6 +6,7 @@
 + Есть большой опыт работы с библиотеками: **Zustang, React Hook Form, Formik, Zod, Yup, Axios, Ky, TanStack Query, Lingui, Date-fns, Moment.js, Swiper,  Maskito, Gsap, Dnd-kit**  и тд.
 + Работаю с **Chakra UI, Material UI, Next UI и Tailwind**
 + Занимаюсь SEO оптимизацией, оптимизацией производительности, слежу за доступностью
++ Есть опыт разработки Telegram Mini App
 + Для меня разработка это не только работа, но и любимое занятие. Люблю создавать что-то новое и видеть результат своей работы
 + Пишу чистый и понятный код
 + Умею разбираться в легаси-коде
