@@ -34,7 +34,7 @@
 
 ## Актуальные проекты:
 + Шаблон проекта на Next.js с базовыми UI компонентами. [Репозиторий](https://github.com/Andryuha-Nikolaev/next-js-template), [страница с UI компонентами](https://next-js-template-bice.vercel.app/test), [главная страница](https://next-js-template-bice.vercel.app/)
-+ Форма с использованием Formik + Yup. [Репозиторий](https://github.com/Andryuha-Nikolaev/formik-yup-form), [сайт](https://formik-yup-form-beta.vercel.app/)
++ Форма (Formik + Yup). [Репозиторий](https://github.com/Andryuha-Nikolaev/formik-yup-form), [сайт](https://formik-yup-form-beta.vercel.app/)
 + Шаблон проекта (React, TypeScript, Vite). [Репозиторий](https://github.com/Andryuha-Nikolaev/react-vite-ts-template)
 + Backend веб-приложения планировщика задач на Nest.js. [Репозиторий](https://github.com/Andryuha-Nikolaev/planner-backend)
 
