@@ -2,7 +2,7 @@
 
 ## Обо мне:
 + **Опыт коммерческой разработки - 3 года**
-+ Продвинутый уровень владения **JavaScript, TypeScript, React, Next.js, Redux Toolkit, SCSS**
++ Продвинутый уровень владения **JavaScript, TypeScript, React, Next.js (App и Pages router, Server actions), Redux Toolkit, SCSS**
 + Есть большой опыт работы с библиотеками: **Zustang, React Hook Form, Formik, Zod, Yup, Axios, Ky, TanStack Query, Lingui, Date-fns, Moment.js, Swiper,  Maskito, Gsap, Dnd-kit**  и тд.
 + Работаю с **Chakra UI, Material UI, Next UI и Tailwind**
 + Занимаюсь SEO оптимизацией, оптимизацией производительности, слежу за доступностью
